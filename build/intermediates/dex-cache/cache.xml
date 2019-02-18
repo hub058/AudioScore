@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_6da76d7a36ae97d470dbbfe6cd4282ea760412df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_a5a09a37af908478301ad26173a4413d0cf87bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_6571692a1f659e717f9a1d6072e55d78c628698d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_7e3f94af6e7c85786301e9d08223db0ceaa5797d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_67a0098f27b0be763c35eb8dbed2d8d4bf578546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e02b277fcd25a96fe36d3842a5189b5bcd2f0e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_81acbc2bf44aba7a0de21f5817919adf5f0876ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_271331bc02e8f6b4eb4e365a18d8826a4c8e2f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_e60c1730f7179f216180e51f88720664096d56ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_5981151300e5ad4c883ee77f88303a7f777d3952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_65bf4031650c4b95e83b98a5036548495281c17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6bf162ce9494460f57fd05112bfbbbbf51a7ae36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5a2404f8ac521d6bfd5dced7184da0ee51bab64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_2ee11f9b648301fd5f7d42e27caa403de24c55c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Administrator\Desktop\AudioScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_e19461bc1d1f78a74a69ed0996607155c6636e51.jar" />
+    </item>
+
+</items>
